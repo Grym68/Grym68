@@ -3,11 +3,15 @@
 <!--
 **Grym68/Grym68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<<<<<<< HEAD
 #This is the beginning
 
+=======
+## I want this line here
+>>>>>>> 102b28ab12273eefa7f1b90436faea3636ad596e
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a Spotify App
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
