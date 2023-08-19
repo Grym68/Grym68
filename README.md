@@ -1,5 +1,14 @@
-# Hi there 👋
-[![Grym's Github stats](https://github-readme-stats.vercel.app/api?username=grym68)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://gitlab.com/Grym68">
+	<img src="https://img.shields.io/badge/Profile-Gitlab-2360ff?style=flat-square"/>
+</a>
+<a href="https://gitlab.com/Grym68">
+	<img src="https://img.shields.io/badge/Another-Link-ef7089?style=flat-square"/>
+</a>
+
+
+[![Grym's Github stats](https://github-readme-stats.vercel.app/api?username=grym68&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- **Grym68/Grym68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -19,3 +28,5 @@
 - ⚡ Fun fact: 69 😎
 
 check out this dude: [Here](https://github.com/anuraghazra/github-readme-stats/tree/master)
+
+[Static Badge | Shields.io](https://shields.io/badges)

@@ -1,0 +1,12 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "spellcheck": true,
+  "attachmentFolderPath": "attachements",
+  "alwaysUpdateLinks": true
+}

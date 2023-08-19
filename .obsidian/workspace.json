@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "f69895df1d4a4999",
+    "type": "split",
+    "children": [
+      {
+        "id": "c43bf9516ecb5c26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdc129ec108dfd5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "986fc07f60162927"
+          },
+          {
+            "id": "8ba0725847281e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "res/example.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "8a4bc1f99bb6ba68"
+          }
+        ]
+      },
+      {
+        "id": "59a8a6f6811cbfc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0726a8216a61d671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "986fc07f60162927"
+          },
+          {
+            "id": "f1f729833c6167c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "res/example.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "8a4bc1f99bb6ba68"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b9c0197c228eb53",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ea8f5b30dbebab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1355db41ba622912",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bc124cacb5a813c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3c3cddfca139471",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b88e9e1577846c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "495736a37aff8c19",
+    "type": "split",
+    "children": [
+      {
+        "id": "88005601281b3baf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b9c55e1eb12bf22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0a20c65f793869f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79000c7ce2bf3931",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8487c7689585a385",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1355db41ba622912",
+  "lastOpenFiles": [
+    "res/example.md",
+    "README.md",
+    "Pasted image 20230819231810.png",
+    "default_pull_request_template.md",
+    "UniNotes/Elaine_Lectures CW 2/008 - Administration of DBMS.md",
+    "UniNotes/Elaine_Lectures CW 2/010T.md",
+    "attachements/Pasted image 20230521002331.png",
+    "lectures.zip~RF9d1b4c.TMP",
+    "lectures.zip",
+    "lectures/lecture 18/DBSyS_Lecture_19.zip",
+    "lectures/lecture 18/DBSyS_Lecture_19.docx",
+    "lectures/lecture 18/DBSyS_Lecture_18.pptx",
+    "lectures/lecture 18",
+    "lectures/lecture 17/DBSyS_Lecture_17.pptx",
+    "lectures/lecture 17/DBSyS_Lecture_17.png",
+    "lectures/lecture 17",
+    "lectures/lecture 16/DBSyS_Lab_16/JavaApp1/src/javaapp1/JavaApp1.java",
+    "lectures/lecture 16/DBSyS_Lab_16/JavaApp1/src/javaapp1",
+    "attachements/Pasted image 20230521002429.png",
+    "attachements/Pasted image 20230521002328.png",
+    "attachements/Pasted image 20230520235912.png",
+    "UniNotes/DBSys Notes.md",
+    "CW2/5202COMP-Developing for NoSQL-CW2.md",
+    "Bucket list.md",
+    "First Node.md",
+    "templates/JAVA_CODE.md",
+    "System Requirements Specification.md",
+    "Diagrams.md",
+    "questions about the groupwork with bob.md",
+    "Referinte.md",
+    "artifacts/Spec Analysis_Report plan.md",
+    "Checklist for the meeting (28_03_2023).md",
+    "Meeting Minutes 14_04_23.md",
+    "Checklist for the meeting (28_03_2023) 1.md",
+    "templates/Use Case.md",
+    "workshops/02 - Planning & Research.md",
+    "workshops/04 & 05 - Professionalism & Ethics.md",
+    "templates/Activity - View Profile.md",
+    "templates/Mermaid.md",
+    "templates/Activity - Register.md",
+    "templates/Activity - Log In.md",
+    "Untitled.canvas",
+    "attachment/Pasted image 20230327155603.png",
+    "attachment/Pasted image 20230327155517.png",
+    "attachment/Pasted image 20230327155112.png",
+    "attachment/Pasted image 20230316120121.png"
+  ]
+}
