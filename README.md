@@ -11,6 +11,7 @@
 <a href="https://instagram.com/eugrym?igshid=MzMyNGUyNmU2YQ==">
 	<img src="https://img.shields.io/badge/Personal Blog-Instagram-d62976?style=flat-square"/>
 </a>
+<br>
 <!--- Potential Personal Website here --->
 [![Grym's Github stats](https://github-readme-stats.vercel.app/api?username=grym68&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
